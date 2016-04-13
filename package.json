@@ -1,0 +1,15 @@
+{
+    "name": "MyWebShop",
+    "author": "Babich Mikhail DVFU 2016",
+    "dependencies": {
+        "gulp": "*",
+        "gulp-uglify": "*",
+        "gulp-inject": "*",
+        "browser-sync": "*",
+        "gulp-less": "*",
+        "wiredep": "*"
+    },
+    "scripts" : {
+        "postinstall": "bower install"
+    }
+}

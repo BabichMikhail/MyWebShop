@@ -1,0 +1,13 @@
+.ui-jqgrid tr.jqgrow td {
+    height: auto;
+}
+
+.FilterPanel {
+    width: 200px;
+    vertical-align: top;
+    text-align: center;
+}
+
+.GlobalTable {
+    width: 100%;
+}
